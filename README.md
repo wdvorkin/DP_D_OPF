@@ -8,7 +8,7 @@ The repository contains data and codes for the centralized OPF in (1) and two pr
 - [Gurobi.jl](https://github.com/JuliaOpt/Gurobi.jl)
 - [JuMP](https://github.com/JuliaOpt/JuMP.jl)
 - [LinearAlgebra.jl](https://github.com/JuliaStdlibs/LinearAlgebra.jl)
-- [PowerModels](https://github.com/lanl-ansi/PowerModels.jl)
+- [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl)
 
 To run the program, make use of particular versions of these Julia packages with
 ```

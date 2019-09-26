@@ -70,7 +70,7 @@ for ν in 2:ν̅
     ν % 100 == 0 ? println("ν --- $(ν) ... res --- $(round(Γ,digits=5))") : NaN
     if Γ <= γ || ν == ν̅
         ν̃[1] = ν
-        println("ADMM terminates at iteration $(ν)")
+        @info("ADMM terminates at iteration $(ν)")
         break
     end
 end

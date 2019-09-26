@@ -6,7 +6,7 @@ The repository contains data and codes for the centralized OPF in (1) and two pr
 - [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl)
 - [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
 - [Gurobi.jl](https://github.com/JuliaOpt/Gurobi.jl)
-- [JuMP](https://github.com/JuliaOpt/JuMP.jl)
+- [JuMP.jl](https://github.com/JuliaOpt/JuMP.jl)
 - [LinearAlgebra.jl](https://github.com/JuliaStdlibs/LinearAlgebra.jl)
 - [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl)
 
